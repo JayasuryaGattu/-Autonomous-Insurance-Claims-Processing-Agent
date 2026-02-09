@@ -1,0 +1,13 @@
+POLICY NUMBER: POL12345
+POLICYHOLDER NAME: Ramesh Kumar
+
+CLAIM TYPE: Vehicle
+
+DATE OF LOSS: 15/01/2025
+TIME OF LOSS: 10:30 AM
+LOCATION: Chennai
+
+DESCRIPTION OF ACCIDENT:
+Rear-end collision at a traffic signal. Minor bumper damage observed.
+
+ESTIMATE AMOUNT: 18000

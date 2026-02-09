@@ -1,0 +1,11 @@
+{
+  "extractedFields": {
+    "policy_number": "POL12345",
+    "claim_type": "vehicle",
+    "estimated_damage": 18000,
+    "description": ":\nRear-end collision at a traffic signal. Minor bumper damage observed.\n\nESTIMATE AMOUNT: 18000"
+  },
+  "missingFields": [],
+  "recommendedRoute": "Fast-track",
+  "reasoning": "Estimated damage is below ₹25,000 and all mandatory fields are present."
+}
